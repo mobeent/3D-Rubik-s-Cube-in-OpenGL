@@ -1,4 +1,4 @@
-# 3D Rubix-Cube-in-OpenGL
+# 3D Rubik's-Cube-in-OpenGL
 
 * Worked on project for the course of Computer Graphics to demonstrate contemporary techniques used in Computer Graphics such as texture mapping and ray tracing to simulate Rubik’s Cube
 * Researched on different problems with Euler angles for rotation and how to avoid these problems by using Quaternions
